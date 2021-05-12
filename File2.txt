@@ -1,1 +1,1 @@
-This is second dev ops file for Git
+This is second dev ops file for Git.
